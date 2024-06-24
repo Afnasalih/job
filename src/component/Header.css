@@ -1,0 +1,44 @@
+.header {
+    background-color: #211FA0;
+    /* color: white;
+    padding: 2px;
+    text-align: center;
+    font-size: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.sp{
+    height: 100%;
+    width: 95%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logout-btn {
+    background-color: #E40491;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.logout-btn:hover {
+    background-color: #e40492cf;
+}
+
+h1{
+    color: white;
+}

@@ -1,0 +1,177 @@
+.form{
+    /* background-color: aqua; */
+    height: 86vh;
+    width: 77%;
+    margin-left: 300px;
+    display: flex;
+}
+.up{
+    /* background-color: aqua; */
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+}
+.down{
+    /* background-color: blueviolet; */
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    
+}
+
+.edit{
+    margin-top: 5px;
+    height: 15px;
+    width: 100%;
+    padding-left: 1130px;
+    /* background-color: azure; */
+}
+.btn{
+    height: 20px;
+    width: 40px;
+    /* background-color: orangered; */
+    color: white;
+}
+.left{
+    height: 100%;
+    width: 50%;
+    /* background-color: beige; */
+    
+}
+.right2{
+    height: 100%;
+    width: 50%;
+    /* background-color: rgb(186, 118, 29); */
+}
+.up2{
+    height: 70%;
+    /* background-color: blue; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1px;
+}
+.down2{
+    height: 30%;
+    /* background-color: aqua; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1px;
+}
+.mid1{
+    height: 85%;
+    width: 85%;
+    background-color: #CDCDEF;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.475);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.mid1p{
+  height: 85%;
+    width: 85%;
+    background-color: #e404922f;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.475);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.mid2{
+    height: 89%;
+    width: 85%;
+    background-color: #e404922f;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.475);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.mid3{
+    height: 83%;
+    width: 85%;
+    background-color: #CDCDEF;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.475);
+    margin-bottom: 13px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+/* FormCard.css */
+.form-card {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #f0f0ff;
+    box-sizing: border-box;
+  }
+  
+  .form-section {
+    background-color: #f5f5ff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 97%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 0.9em;
+  }
+  
+  .form-group textarea {
+    resize: none;
+    height: 90px;
+  }
+  
+  .skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .skills span {
+    background-color: white;
+    padding: 8px 12px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 0.9em;
+  }
+  
+  @media (max-width: 768px) {
+    .form-card {
+      grid-template-columns: 1fr;
+    }
+  }
+  

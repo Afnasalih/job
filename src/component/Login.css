@@ -1,0 +1,134 @@
+.mainh1{
+    background-color: #E40491;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main2h1{
+    background-color: #211FA0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middleh1{
+    /* background-color: rgb(0, 255, 110); */
+    height: 80%;
+    width: 80%;
+    position: relative;
+    box-shadow: 0 12px 10px 0 rgba(0, 0, 0, 0.865), 0 4px 30px 6px rgba(0, 0, 0, 0.797);
+}
+.imgh1{
+    height: 100%;
+    width: 100%;
+
+}
+.toph1{
+    height: 100%;
+    width: 100%;
+    /* background-color: yellowgreen; */
+    position: absolute;
+    top: 0px;
+    display: flex;
+}
+.lefth1{
+    height: 100%;
+    width: 50%;
+    /* background-color: rgba(0, 255, 255, 0.742); */
+}
+.righth1{
+    height: 100%;
+    width: 50%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.midh1{
+    height: 80%;
+    width: 80%;
+    background-color: rgba(250, 250, 250, 0.178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.workh1{
+    /* background-color: beige; */
+    margin-top: 90px;
+    margin-left: 100px;
+}
+.mid2h1{
+    height: 85%;
+    width: 85%;
+    /* background-color: brown; */
+}
+.txt1h1{
+    height: 50px;
+    /* background-color: rgb(27, 124, 209); */
+    font-size: 35px;
+    color: white;
+    margin-bottom: 20px;
+}
+.box1h1{
+    height: 90px;
+    /* background-color: aqua; */
+    margin-bottom: 20px;
+}
+.box1sh1{
+    height: 60px;
+    /* background-color: aqua; */
+    margin-bottom: 20px;
+}
+.txt2h1{
+    height: 30px;
+    /* background-color: chartreuse; */
+    color: white;
+}
+.txt2sh1{
+    height: 20px;
+    margin-top: 10px;
+    /* background-color: chartreuse; */
+    color: white;
+}
+.box3h1{
+    height: 40px;
+    /* background-color: cadetblue; */
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btnh1{
+    height: 90%;
+    width: 100%;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+.txt3h1{
+    height: 30px;
+    /* background-color: aquamarine; */
+    margin-top: 10px;
+    color: white;
+}
+.inputh1{
+    height: 50px;
+    width: 98%;
+    outline: 0; 
+    border-width: 0 0 2px; 
+    border-color: rgb(255, 255, 255); 
+    background-color: transparent;
+}
+.emailh1{
+    color: white;
+}
+.formh1{
+    /* background-color: aqua; */
+}
+a:link{
+    color: white;
+}
